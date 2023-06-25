@@ -1,1 +1,1 @@
-# ETHWaterloo
+# KnowYourPeer
